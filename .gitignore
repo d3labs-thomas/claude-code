@@ -1,0 +1,34 @@
+# Session & runtime data
+history.jsonl
+stats-cache.json
+debug/
+cache/
+paste-cache/
+plans/
+downloads/
+ide/
+
+# Telemetry & analytics
+statsig/
+telemetry/
+
+# Session-specific state
+session-env/
+shell-snapshots/
+todos/
+tasks/
+file-history/
+
+# Plugins (may contain auth tokens)
+plugins/
+
+# Auto-memory (machine-specific paths in project names)
+projects/
+
+# macOS
+.DS_Store
+
+mcp-needs-auth-cache.json
+backups
+logs
+skills/ui-ux-pro-max/scripts/__pycache__
